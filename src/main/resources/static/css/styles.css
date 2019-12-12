@@ -12,15 +12,36 @@ div {
 
 h1 {
     margin: auto;
-        width: 50%;
-        padding: 10px;
-        text-align: center;
-        background-color: white;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    background-color: white;
 }
 
 table {
     margin: auto;
-            width: 50%;
-            padding: 10px;
-            text-align: center;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+.polish {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    text-align: center;
+    border: 1px solid rgba(0, 0, 0, .2);
+}
+
+.midnight {
+    background: black;
+}
+
+.magenta {
+    background: magenta;
+}
+
+.turquoise {
+    background: turquoise;
 }
